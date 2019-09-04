@@ -42,6 +42,8 @@ def circleofsquares(howMany):
     sue.right(5)
 
 
+sue.goto(250, -100)
+
 square(50, "red")
 square(100, "black")
 circleofsquares(60)
